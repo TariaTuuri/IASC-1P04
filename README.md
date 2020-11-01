@@ -8,5 +8,5 @@ Playtest my game [here]
 
 ## Prototype
 
-Play the Prototype [Here](https://github.com/TariaTuuri/IASC-1P04/blob/master/Prototype/TwineGamePrototype_Oct.31.html)
+Play the Prototype [Here](Prototype/TwineGamePrototype_Oct.31.html)
 
