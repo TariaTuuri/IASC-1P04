@@ -8,5 +8,5 @@ Playtest my game [here]
 
 ## Prototype
 
-Play the Prototype [Here](Prototype/TwineGamePrototype_Oct.31.html)
+Play the Prototype [here](Prototype/TwineGamePrototype_Oct.31.html)
 
