@@ -8,7 +8,7 @@ Escape is a short game where the player inhabits the body of a witch who has bee
 Welcome to the website for my Twine Game, created for the course IASC 1P04 at Brock University
 ## Play now
 
-play Escape [here](final_build/Escape_Final.html)
+play Escape [here](Final_Build/Escape_Final.html)
 
 ## Playtest
 
