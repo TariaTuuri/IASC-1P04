@@ -1,6 +1,14 @@
 # IASC-1P04 | Taria Tuuri
+# Escape by Taria Tuuri
+## IASC 1P04| fall 2020
+
+## About the Game
+Escape is a short game where the player inhabits the body of a witch who has been captured and is being held for her execution the next morning. Players must use the resources available to them as well as the help from some unlikely people to find a way to escape before dawn. This game conveys the themes that people can often suprise you and that it is always better to help people.
 
 Welcome to the website for my Twine Game, created for the course IASC 1P04 at Brock University
+## Play now
+
+play Escape [here](final_build/Escape_Final.html)
 
 ## Playtest
 
